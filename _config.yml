@@ -1,0 +1,17 @@
+title: Eshan Patel
+email: 3shanpatel@gmail.com
+description: Just a guy who loves working with software.
+url: "https://swansong314.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Social links
+github_username: swansong314
+alt_email: 3shanpatel@gmail.com
+phone: 6370646159
+alt_phone: 9668183589
